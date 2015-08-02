@@ -1,0 +1,595 @@
+[
+    {
+        "endpoints": [
+            "https://graph.facebook.com/"
+        ],
+        "name": "Facebook"
+    },
+    {
+        "endpoints": [
+            "https://svcs.sandbox.paypal.com"
+        ],
+        "name": "PayPal (Sandbox)"
+    },
+    {
+        "endpoints": [
+            "https://na14.salesforce.com/services/data"
+        ],
+        "name": "Salesforce"
+    },
+    {
+        "endpoints": [
+            "https://api.soundcloud.com"
+        ],
+        "name": "SoundCloud"
+    },
+    {
+        "endpoints": [
+            "https://api.twilio.com/2010-04-01/Accounts"
+        ],
+        "name": "Twilio"
+    },
+    {
+        "endpoints": [
+            "https://api.twitter.com/1.1",
+            "https://stream.twitter.com/1.1",
+            "https://userstream.twitter.com/1.1",
+            "https://sitestream.twitter.com/1.1",
+            "https://api.twitter.com/oauth",
+            "https://api.twitter.com/1",
+            "https://upload.twitter.com/1",
+            "https://search.twitter.com"
+        ],
+        "name": "Twitter"
+    },
+    {
+        "endpoints": [
+            "https://api.foursquare.com/v2"
+        ],
+        "name": "Foursquare"
+    },
+    {
+        "endpoints": [
+            "https://openapi.etsy.com/v2/private"
+        ],
+        "name": "Etsy"
+    },
+    {
+        "endpoints": [
+            "https://api.github.com"
+        ],
+        "name": "GitHub v3"
+    },
+    {
+        "endpoints": [
+            "http://api.zappos.com"
+        ],
+        "name": "Zappos"
+    },
+    {
+        "endpoints": [
+            "https://api.groupon.com/"
+        ],
+        "name": "Groupon API2"
+    },
+    {
+        "endpoints": [
+            "http://api.search.live.net"
+        ],
+        "name": "Bing"
+    },
+    {
+        "endpoints": [
+            "https://api.bluevia.com/services/REST"
+        ],
+        "name": "BlueVia"
+    },
+    {
+        "endpoints": [
+            "https://na1.salesforce.com/services/data/v23.0/"
+        ],
+        "name": "Salesforce Chatter"
+    },
+    {
+        "endpoints": [
+            "http://www.reddit.com/"
+        ],
+        "name": "Reddit"
+    },
+    {
+        "endpoints": [
+            "https://www.eventbrite.com/{data-type}/"
+        ],
+        "name": "Eventbrite"
+    },
+    {
+        "endpoints": [
+            "https://api.instagram.com/v1/"
+        ],
+        "name": "Instagram"
+    },
+    {
+        "endpoints": [
+            "https://api.fitbit.com/1"
+        ],
+        "name": "Fitbit"
+    },
+    {
+        "endpoints": [
+            "http://sandbox.api.shopping.com/publisher/3.0/rest/"
+        ],
+        "name": "Shopping.com"
+    },
+    {
+        "endpoints": [
+            "http://api.wunderground.com/api/"
+        ],
+        "name": "Weather Underground"
+    },
+    {
+        "endpoints": [
+            "https://api-ssl.bitly.com"
+        ],
+        "name": "Bitly"
+    },
+    {
+        "endpoints": [
+            "http://api.tumblr.com/v2/"
+        ],
+        "name": "Tumblr"
+    },
+    {
+        "endpoints": [
+            "http://api.nytimes.com/svc/"
+        ],
+        "name": "NYTimes"
+    },
+    {
+        "endpoints": [
+            "https://api.del.icio.us/v1/"
+        ],
+        "name": "Delicious"
+    },
+    {
+        "endpoints": [
+            "https://api.smsified.com/v1"
+        ],
+        "name": "SMSified"
+    },
+    {
+        "endpoints": [
+            "https://api.tropo.com/v1"
+        ],
+        "name": "Tropo"
+    },
+    {
+        "endpoints": [
+            "https://www.pivotaltracker.com/services/v3/"
+        ],
+        "name": "Pivotal Tracker"
+    },
+    {
+        "endpoints": [
+            "https://www.googleapis.com/webfonts/v1"
+        ],
+        "name": "Google Web Fonts"
+    },
+    {
+        "endpoints": [
+            "http://api.flickr.com/services/"
+        ],
+        "name": "Flickr"
+    },
+    {
+        "endpoints": [
+            "https://www.googleapis.com/tasks/v1"
+        ],
+        "name": "Google Tasks"
+    },
+    {
+        "endpoints": [
+            "https://www.googleapis.com/books/v1"
+        ],
+        "name": "Google Books"
+    },
+    {
+        "endpoints": [
+            "https://www.googleapis.com/pagespeedonline/v1"
+        ],
+        "name": "PageSpeed"
+    },
+    {
+        "endpoints": [
+            "https://www.googleapis.com/calendar/v3"
+        ],
+        "name": "Google Calendar"
+    },
+    {
+        "endpoints": [
+            "https://www.googleapis.com/freebase/v1"
+        ],
+        "name": "Freebase"
+    },
+    {
+        "endpoints": [
+            "https://www.googleapis.com/prediction/v1.4"
+        ],
+        "name": "Google Prediction"
+    },
+    {
+        "endpoints": [
+            "https://www.googleapis.com/analytics/v3",
+            "https://www.google-analytics.com/analytics.js"
+        ],
+        "name": "Google Analytics"
+    },
+    {
+        "endpoints": [
+            "https://www.googleapis.com/adsense/v1.1"
+        ],
+        "name": "Google AdSense"
+    },
+    {
+        "endpoints": [
+            "https://www.googleapis.com/blogger/v2"
+        ],
+        "name": "Blogger"
+    },
+    {
+        "endpoints": [
+            "https://www.googleapis.com/orkut/v2"
+        ],
+        "name": "Orkut"
+    },
+    {
+        "endpoints": [
+            "https://picasaweb.google.com/data"
+        ],
+        "name": "Picasa"
+    },
+    {
+        "endpoints": [
+            "https://www.googleapis.com/latitude/v1"
+        ],
+        "name": "Google Latitude"
+    },
+    {
+        "endpoints": [
+            "http://gdata.youtube.com/",
+            "http://uploads.gdata.youtube.com/",
+            "http://insight.youtube.com/"
+        ],
+        "name": "YouTube"
+    },
+    {
+        "endpoints": [
+            "https://spreadsheets.google.com/feeds"
+        ],
+        "name": "Google Spreadsheets"
+    },
+    {
+        "endpoints": [
+            "https://apps-apis.google.com/a/feeds/emailsettings/2.0"
+        ],
+        "name": "Google Mail (Settings)"
+    },
+    {
+        "endpoints": [
+            "https://sites.google.com/feeds/"
+        ],
+        "name": "Google Sites"
+    },
+    {
+        "endpoints": [
+            "https://docs.google.com/feeds"
+        ],
+        "name": "Google Documents"
+    },
+    {
+        "endpoints": [
+            "http://api.stackoverflow.com/1.1"
+        ],
+        "name": "Stack Exchange"
+    },
+    {
+        "endpoints": [
+            "https://rubygems.org/api/v1"
+        ],
+        "name": "Ruby Gems"
+    },
+    {
+        "endpoints": [
+            "http://api.myspace.com"
+        ],
+        "name": "MySpace"
+    },
+    {
+        "endpoints": [
+            "http://developer.echonest.com/api/v4"
+        ],
+        "name": "EchoNest"
+    },
+    {
+        "endpoints": [
+            "http://api.rdio.com/1/"
+        ],
+        "name": "Rdio"
+    },
+    {
+        "endpoints": [
+            "http://api.donorschoose.org/common",
+            "https://apisecure.donorschoose.org/common"
+        ],
+        "name": "DonorsChoose.org"
+    },
+    {
+        "endpoints": [
+            "http://api.rhapsody.com/v1"
+        ],
+        "name": "Rhapsody"
+    },
+    {
+        "endpoints": [
+            "http://ws.spotify.com"
+        ],
+        "name": "Spotify"
+    },
+    {
+        "endpoints": [
+            "http://weather.yahooapis.com"
+        ],
+        "name": "Yahoo Weather"
+    },
+    {
+        "endpoints": [
+            "http://api.wxbug.net"
+        ],
+        "name": "WeatherBug"
+    },
+    {
+        "endpoints": [
+            "https://api.constantcontact.com/ws/customers"
+        ],
+        "name": "Constant Contact"
+    },
+    {
+        "endpoints": [
+            "https://sendgrid.com/api",
+            "https://sendgrid.com/apiv2"
+        ],
+        "name": "SendGrid"
+    },
+    {
+        "endpoints": [
+            "https://dc.api.mailchimp.com/1.3",
+            "https://dc.api.mailchimp.com/export/1.0",
+            "https://dc.sts.mailchimp.com/1.0"
+        ],
+        "name": "MailChimp"
+    },
+    {
+        "endpoints": [
+            "https://api.context.io/2.0"
+        ],
+        "name": "Context.IO"
+    },
+    {
+        "endpoints": [
+            "https://api.infoconnect.com"
+        ],
+        "name": "Infoconnect"
+    },
+    {
+        "endpoints": [
+            "https://go.urbanairship.com/api"
+        ],
+        "name": "Urban Airship"
+    },
+    {
+        "endpoints": [
+            "https://boxcar.io/devices/providers/provider_key"
+        ],
+        "name": "BoxCar"
+    },
+    {
+        "endpoints": [
+            "https://api.enterprise.apigee.com/v1"
+        ],
+        "name": "Apigee Edge API"
+    },
+    {
+        "endpoints": [
+            "http://api2.yp.com/listings/v1",
+            "http://api2.yp.com/content/v1"
+        ],
+        "name": "Yellow Pages"
+    },
+    {
+        "endpoints": [
+            "https://connect.gettyimages.com"
+        ],
+        "name": "Getty Images Connect"
+    },
+    {
+        "endpoints": [
+            "https://na14.salesforce.com/services/data"
+        ],
+        "name": "Salesforce Sandbox"
+    },
+    {
+        "endpoints": [
+            "https://us.battle.net/api/wow"
+        ],
+        "name": "World of Warcraft"
+    },
+    {
+        "endpoints": [
+            "https://api.linkedin.com/v1"
+        ],
+        "name": "LinkedIn"
+    },
+    {
+        "endpoints": [
+            "https://api.heroku.com"
+        ],
+        "name": "Heroku"
+    },
+    {
+        "endpoints": [
+            "https://api.pinboard.in/v1"
+        ],
+        "name": "Pinboard"
+    },
+    {
+        "endpoints": [
+            "https://api.postmarkapp.com",
+            "http://spamcheck.postmarkapp.com"
+        ],
+        "name": "Postmark"
+    },
+    {
+        "endpoints": [
+            "http://api.v3.factual.com"
+        ],
+        "name": "Factual"
+    },
+    {
+        "endpoints": [
+            "https://api.skyrock.com/v2"
+        ],
+        "name": "Skyrock"
+    },
+    {
+        "endpoints": [
+            "https://subdomain.desk.com/api/version"
+        ],
+        "name": "Desk.com"
+    },
+    {
+        "endpoints": [
+            "https://api.500px.com/v1"
+        ],
+        "name": "500px"
+    },
+    {
+        "endpoints": [
+            "https://api.att.com"
+        ],
+        "name": "AT&T"
+    },
+    {
+        "endpoints": [
+            "http://youphoriclabs.com/sms/"
+        ],
+        "name": "Youphoric"
+    },
+    {
+        "endpoints": [
+            "https://www.onenote.com/api/v1.0/"
+        ],
+        "name": "OneNote"
+    },
+    {
+        "endpoints": [
+            "https://x.smart.com.ph"
+        ],
+        "name": "SMARTDevNet"
+    },
+    {
+        "endpoints": [
+            "https://api.nextcaller.com/",
+            "https://api.sandbox.nextcaller.com/"
+        ],
+        "name": "Next Caller"
+    },
+    {
+        "endpoints": [
+            "https://api.onedrive.com/"
+        ],
+        "name": "OneDrive"
+    },
+    {
+        "endpoints": [
+            "http://bcs.duapp.com/test"
+        ],
+        "name": "Baidu Cloud Storage (cn)"
+    },
+    {
+        "endpoints": [
+            "http://d1.lashouimg.com/static/js/release/jquery-1.4.2.min.js"
+        ],
+        "name": "LaShouIMG mirror (cn)"
+    },
+    {
+        "endpoints": [
+            "http://api.map.baidu.com/marker?output=html"
+        ],
+        "name": "Baidu Maps (cn)"
+    },
+    {
+        "endpoints": [
+            "http://bcms.api.duapp.com/rest/2.0/bcms/"
+        ],
+        "name": "Baidu Cloud Message Service (cn)"
+    },
+    {
+        "endpoints": [
+            "http://openapi.baidu.com/public/2.0/bmt/translate"
+        ],
+        "name": "Baidu Translate (cn)"
+    },
+    {
+        "endpoints": [
+            "http://bcms.api.duapp.com/rest/2.0/bcms/"
+        ],
+        "name": "Baidu Cloud Message Service (cn)"
+    },
+    {
+        "endpoints": [
+            "https://openapi.baidu.com/social/api/2.0/user/info"
+        ],
+        "name": "Baidu Social (cn)"
+    },
+    {
+        "endpoints": [
+            "http://tongji.baidu.com/open/api/"
+        ],
+        "name": "Baidu Analytics (cn)"
+    },
+    {
+        "endpoints": [
+            "http://api.t.sina.com.cn/"
+        ],
+        "name": "Weibo (cn)"
+    },
+    {
+        "endpoints": [
+            "https://openapi.youku.com/v2/"
+        ],
+        "name": "Youku (cn)"
+    },
+    {
+        "endpoints": [
+            "http://api.taobao.com"
+        ],
+        "name": "Taobao (cn)"
+    },
+    {
+        "endpoints": [
+            "http://open.taobao.com"
+        ],
+        "name": "Taobao (cn)"
+    },
+    {
+        "endpoints": [
+            "http://open.qq.com"
+        ],
+        "name": "QQ (cn)"
+    },
+    {
+        "endpoints": [
+            "http://api.dianping.com/v1/"
+        ],
+        "name": "Dianping (cn)"
+    }
+]
