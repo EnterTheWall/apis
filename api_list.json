@@ -1,4 +1,10 @@
 [
+     {
+        "endpoints": [
+            "https://cdn.segment.com/analytics.js/v1/123/analytics.min.js"
+        ],
+        "name": "Segment"
+    },
     {
         "endpoints": [
             "https://graph.facebook.com/"
