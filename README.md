@@ -12,4 +12,4 @@ All public APIs are currently welcome.
 
 ## Credits
 
-(c) 2015, Almaritech Ltd. All Rights Reserved.
+(c) 2015. All Rights Reserved.
